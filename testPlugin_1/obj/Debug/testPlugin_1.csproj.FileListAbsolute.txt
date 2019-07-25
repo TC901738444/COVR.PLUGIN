@@ -1,0 +1,10 @@
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\bin\Debug\testPlugin_1.dll.config
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\bin\Debug\testPlugin_1.dll
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\bin\Debug\testPlugin_1.pdb
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\bin\Debug\PluginInterface.dll
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\bin\Debug\PluginInterface.pdb
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\obj\Debug\testPlugin_1.csprojAssemblyReference.cache
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\obj\Debug\testPlugin_1.csproj.CoreCompileInputs.cache
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\obj\Debug\testPlugin_1.csproj.CopyComplete
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\obj\Debug\testPlugin_1.dll
+C:\Users\901738444\Desktop\COVR2\testPlugin_1\obj\Debug\testPlugin_1.pdb

@@ -1,0 +1,6 @@
+C:\Users\901738444\Desktop\COVR2\COVR.PLUGIN\bin\Debug\COVR.PLUGIN.dll
+C:\Users\901738444\Desktop\COVR2\COVR.PLUGIN\bin\Debug\COVR.PLUGIN.pdb
+C:\Users\901738444\Desktop\COVR2\COVR.PLUGIN\obj\Debug\COVR.PLUGIN.csproj.CoreCompileInputs.cache
+C:\Users\901738444\Desktop\COVR2\COVR.PLUGIN\obj\Debug\COVR.PLUGIN.dll
+C:\Users\901738444\Desktop\COVR2\COVR.PLUGIN\obj\Debug\COVR.PLUGIN.pdb
+C:\Users\901738444\Desktop\COVR2\COVR.PLUGIN\obj\Debug\COVR.PLUGIN.csprojAssemblyReference.cache

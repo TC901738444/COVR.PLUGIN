@@ -1,0 +1,6 @@
+C:\Users\901738444\Desktop\COVR2\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\901738444\Desktop\COVR2\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\901738444\Desktop\COVR2\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\901738444\Desktop\COVR2\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\901738444\Desktop\COVR2\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\901738444\Desktop\COVR2\PluginInterface\obj\Debug\PluginInterface.pdb
